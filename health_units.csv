@@ -1,0 +1,821 @@
+Distrito Sanitário;Unidade;Serviços Oferecidos;Tipo de Unidade
+Leste;UBS ALECRIM;Imunização;Unidade Básica de Saúde
+Leste;UBS ALECRIM;Teste do Pezinho;Unidade Básica de Saúde
+Leste;UBS ALECRIM;Exame Citopatológico do Colo de Útero (Preventivo);Unidade Básica de Saúde
+Leste;UBS ALECRIM;PPD;Unidade Básica de Saúde
+Leste;UBS ALECRIM;BCG;Unidade Básica de Saúde
+Leste;UBS ALECRIM;Aplicação de Vitamina A;Unidade Básica de Saúde
+Leste;UBS ALECRIM;Distribuição de Suplemento Sulfato Ferroso;Unidade Básica de Saúde
+Leste;UBS ALECRIM;Teste Rápido;Unidade Básica de Saúde
+Leste;UBS ALECRIM;Emissão do Cartão SUS;Unidade Básica de Saúde
+Leste;UBS ALECRIM;Consulta Clinico Geral;Unidade Básica de Saúde
+Leste;UBS ALECRIM;Consulta Pediatria;Unidade Básica de Saúde
+Leste;UBS ALECRIM;Consulta Ginecologia;Unidade Básica de Saúde
+Leste;UBS ALECRIM;Consulta Enfermagem;Unidade Básica de Saúde
+Leste;UBS ALECRIM;Consulta Nutrição;Unidade Básica de Saúde
+Leste;UBS ALECRIM;Consulta Assistente Social;Unidade Básica de Saúde
+Leste;UBS ALECRIM;Colposcopia;Unidade Básica de Saúde
+Leste;UBS ALECRIM;Grupo de Adolescente (Pais);Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Imunização;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Curativo;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Retirada de Pontos;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Teste do Pezinho;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Exame Citopatológico do Colo de Útero (Preventivo);Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Aplicação de Vitamina A;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Distribuição de Suplemento Sulfato Ferroso;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Consulta Clinico Geral;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Consulta Pediatria;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Consulta Ginecologia;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Consulta Enfermagem;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Consulta Odontologica;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Consulta Nutrição;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Consulta de Psicologia;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Vivências lúdicas integrativas;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Grupo de Idosos;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Grupo de Hipertensos;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Grupo de Diabéticos;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Grupo de Dança;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Viva Mais;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Atividade Física;Unidade Básica de Saúde
+Leste;UBS LAGOA SECA;Artesanato;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Imunização;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Curativo;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Nebulização;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Retirada de Pontos;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Teste do Pezinho;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Exame Citopatológico do Colo de Útero (Preventivo);Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Aplicação de Vitamina A;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Distribuição de Suplemento Sulfato Ferroso;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Emissão do Cartão SUS;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Consulta Clinico Geral;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Consulta Pediatria;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Consulta Ginecologia;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Consulta Enfermagem;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Consulta Odontologica;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Consulta Nutrição;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Consulta de Psicologia;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Colposcopia;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Atividade Física;Unidade Básica de Saúde
+Leste;UBS SAO JOAO;Consultório na Rua;Unidade Básica de Saúde
+Leste;USF APARECIDA;Imunização;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Curativo;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Retirada de Pontos;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Teste do Pezinho;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Leste;USF APARECIDA;PPD;Unidade de Saúde Familiar
+Leste;USF APARECIDA;BCG;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Teste Rápido;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Sorologia de gestantes;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Emissão do Cartão SUS;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Leste;USF APARECIDA;Consulta Pediatria;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Consulta Ginecologia;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Consulta Enfermagem;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Consulta Odontologica;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Consulta Nutrição;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Consulta de Psicologia;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Grupo de Idosos;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Grupo de Gestantes;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Grupo de Hipertensos;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Grupo de Diabéticos;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Terapia Ocupacional;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Grupo de Caminhada;Unidade de Saúde Familiar
+Leste;USF APARECIDA;CD Coletivo;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Viva Mais;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Terapia comunitária;Unidade de Saúde Familiar
+Leste;USF APARECIDA;Atividade Física;Unidade de Saúde Familiar
+Leste;USF BRASILIA TEIMOSA;Imunização;Unidade de Saúde Familiar
+Leste;USF BRASILIA TEIMOSA;Curativo;Unidade de Saúde Familiar
+Leste;USF BRASILIA TEIMOSA;Retirada de Pontos;Unidade de Saúde Familiar
+Leste;USF BRASILIA TEIMOSA;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Leste;USF BRASILIA TEIMOSA;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Leste;USF BRASILIA TEIMOSA;Emissão do Cartão SUS;Unidade de Saúde Familiar
+Leste;USF BRASILIA TEIMOSA;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Leste;USF BRASILIA TEIMOSA;Consulta Enfermagem;Unidade de Saúde Familiar
+Leste;USF BRASILIA TEIMOSA;Consulta Odontologica;Unidade de Saúde Familiar
+Leste;USF GUARITA;Curativo;Unidade de Saúde Familiar
+Leste;USF GUARITA;Retirada de Pontos;Unidade de Saúde Familiar
+Leste;USF GUARITA;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Leste;USF GUARITA;BCG;Unidade de Saúde Familiar
+Leste;USF GUARITA;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Leste;USF GUARITA;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Leste;USF GUARITA;Teste Rápido;Unidade de Saúde Familiar
+Leste;USF GUARITA;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Leste;USF GUARITA;Consulta Enfermagem;Unidade de Saúde Familiar
+Leste;USF GUARITA;Consulta Odontologica;Unidade de Saúde Familiar
+Leste;USF GUARITA;Colposcopia;Unidade de Saúde Familiar
+Leste;USF GUARITA;Grupo de Gestantes;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Imunização;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Curativo;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Nebulização;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Retirada de Pontos;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Injeções;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Teste do Pezinho;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;BCG;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Teste Rápido;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Sorologia de gestantes;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Emissão do Cartão SUS;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Consulta Enfermagem;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Consulta Odontologica;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Pré-Natal;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Vivências lúdicas integrativas;Unidade de Saúde Familiar
+Leste;USF PASSO DA PATRIA;Grupo de Gestantes;Unidade de Saúde Familiar
+Leste;USF ROCAS;Imunização;Unidade de Saúde Familiar
+Leste;USF ROCAS;Curativo;Unidade de Saúde Familiar
+Leste;USF ROCAS;Nebulização;Unidade de Saúde Familiar
+Leste;USF ROCAS;Retirada de Pontos;Unidade de Saúde Familiar
+Leste;USF ROCAS;Teste do Pezinho;Unidade de Saúde Familiar
+Leste;USF ROCAS;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Leste;USF ROCAS;PPD;Unidade de Saúde Familiar
+Leste;USF ROCAS;BCG;Unidade de Saúde Familiar
+Leste;USF ROCAS;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Leste;USF ROCAS;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Leste;USF ROCAS;Teste Rápido;Unidade de Saúde Familiar
+Leste;USF ROCAS;Emissão do Cartão SUS;Unidade de Saúde Familiar
+Leste;USF ROCAS;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Leste;USF ROCAS;Consulta Clinico Geral;Unidade de Saúde Familiar
+Leste;USF ROCAS;Consulta Enfermagem;Unidade de Saúde Familiar
+Leste;USF ROCAS;Consulta Odontologica;Unidade de Saúde Familiar
+Leste;USF ROCAS;Consulta Nutrição;Unidade de Saúde Familiar
+Leste;USF ROCAS;Grupo de Idosos;Unidade de Saúde Familiar
+Leste;USF ROCAS;Grupo de Gestantes;Unidade de Saúde Familiar
+Leste;USF ROCAS;Grupo de Hipertensos;Unidade de Saúde Familiar
+Leste;USF ROCAS;Grupo de Diabéticos;Unidade de Saúde Familiar
+Leste;USF ROCAS;Grupo de Dança;Unidade de Saúde Familiar
+Leste;USF ROCAS;CD Coletivo;Unidade de Saúde Familiar
+Leste;USF ROCAS;Atividade Física;Unidade de Saúde Familiar
+Norte I;UBS PAJUCARA;Imunização;Unidade Básica de Saúde
+Norte I;UBS PAJUCARA;Curativo;Unidade Básica de Saúde
+Norte I;UBS PAJUCARA;Retirada de Pontos;Unidade Básica de Saúde
+Norte I;UBS PAJUCARA;Exame Citopatológico do Colo de Útero (Preventivo);Unidade Básica de Saúde
+Norte I;UBS PAJUCARA;BCG;Unidade Básica de Saúde
+Norte I;UBS PAJUCARA;Aplicação de Vitamina A;Unidade Básica de Saúde
+Norte I;UBS PAJUCARA;Emissão do Cartão SUS;Unidade Básica de Saúde
+Norte I;UBS PAJUCARA;Consulta Clinico Geral;Unidade Básica de Saúde
+Norte I;UBS PAJUCARA;Consulta Enfermagem;Unidade Básica de Saúde
+Norte I;UBS PAJUCARA;Consulta de Psicologia;Unidade Básica de Saúde
+Norte I;UBS PAJUCARA;Fitoterapia;Unidade Básica de Saúde
+Norte I;UBS PAJUCARA;Grupo de Gestantes;Unidade Básica de Saúde
+Norte I;UBS PAJUCARA;Vacinação de Cães;Unidade Básica de Saúde
+Norte I;USF AFRICA;Imunização;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Curativo;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Nebulização;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Retirada de Pontos;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Teste do Pezinho;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte I;USF AFRICA;PPD;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte I;USF AFRICA;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Consulta Odontologica;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Consulta Nutrição;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Consulta de Psicologia;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Consulta Assistente Social;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Grupo de Idosos;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Grupo de Hipertensos;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Grupo de Diabéticos;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Grupo de Dança;Unidade de Saúde Familiar
+Norte I;USF AFRICA;Grupo de Caminhada;Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Imunização;Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Curativo;Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Nebulização;Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Retirada de Pontos;Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Teste do Pezinho;Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;BCG;Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Consulta Odontologica;Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Grupo de Idosos;Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Grupo de Crianças;Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Grupo de Adolescente (Escola);Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Grupo de Adolescente (Pais);Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Grupo de Gestantes;Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Grupo de Hipertensos;Unidade de Saúde Familiar
+Norte I;USF DA REDINHA ;Grupo de Diabéticos;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Imunização;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Curativo;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Nebulização;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Retirada de Pontos;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Injeções;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Teste do Pezinho;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte I;USF GRAMORE;PPD;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;BCG;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Teste Rápido;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Sorologia de gestantes;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Emissão do Cartão SUS;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Consulta Odontologica;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Pré-Natal;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Grupo de Gestantes;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Grupo de Hipertensos;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Grupo de Diabéticos;Unidade de Saúde Familiar
+Norte I;USF GRAMORE;Grupo de Dança;Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Imunização;Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Curativo;Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Nebulização;Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Retirada de Pontos;Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;BCG;Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Consulta Odontologica;Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Grupo de Idosos;Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Grupo de Adolescente (Escola);Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Grupo de Gestantes;Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Grupo de Hipertensos;Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Grupo de Caminhada;Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Atividade Física;Unidade de Saúde Familiar
+Norte I;USF JOSE SARNEY;Grupo de Servidor de bem com a saúde;Unidade de Saúde Familiar
+Norte I;USF NORDELANDIA;Imunização;Unidade de Saúde Familiar
+Norte I;USF NORDELANDIA;Curativo;Unidade de Saúde Familiar
+Norte I;USF NORDELANDIA;Retirada de Pontos;Unidade de Saúde Familiar
+Norte I;USF NORDELANDIA;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte I;USF NORDELANDIA;PPD;Unidade de Saúde Familiar
+Norte I;USF NORDELANDIA;BCG;Unidade de Saúde Familiar
+Norte I;USF NORDELANDIA;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte I;USF NORDELANDIA;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte I;USF NORDELANDIA;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte I;USF NORDELANDIA;Consulta Odontologica;Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;Imunização;Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;Curativo;Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;Retirada de Pontos;Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;Teste do Pezinho;Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;BCG;Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;Consulta Odontologica;Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;Grupo de Gestantes;Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;Grupo de Hipertensos;Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;Grupo de Diabéticos;Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;Grupo de Caminhada;Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;CD Coletivo;Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;Viva Mais;Unidade de Saúde Familiar
+Norte I;USF PARQUE DAS DUNAS;Atividade Física;Unidade de Saúde Familiar
+Norte I;USF POMPEIA;Imunização;Unidade de Saúde Familiar
+Norte I;USF POMPEIA;Curativo;Unidade de Saúde Familiar
+Norte I;USF POMPEIA;Nebulização;Unidade de Saúde Familiar
+Norte I;USF POMPEIA;Retirada de Pontos;Unidade de Saúde Familiar
+Norte I;USF POMPEIA;Teste do Pezinho;Unidade de Saúde Familiar
+Norte I;USF POMPEIA;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte I;USF POMPEIA;PPD;Unidade de Saúde Familiar
+Norte I;USF POMPEIA;BCG;Unidade de Saúde Familiar
+Norte I;USF POMPEIA;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte I;USF POMPEIA;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte I;USF POMPEIA;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte I;USF POMPEIA;Consulta Odontologica;Unidade de Saúde Familiar
+Norte I;USF POMPEIA;Grupo de Idosos;Unidade de Saúde Familiar
+Norte II;UBS BELA VISTA;Imunização;Unidade Básica de Saúde
+Norte II;UBS BELA VISTA;Curativo;Unidade Básica de Saúde
+Norte II;UBS BELA VISTA;Retirada de Pontos;Unidade Básica de Saúde
+Norte II;UBS BELA VISTA;Injeções;Unidade Básica de Saúde
+Norte II;UBS BELA VISTA;Teste do Pezinho;Unidade Básica de Saúde
+Norte II;UBS BELA VISTA;Exame Citopatológico do Colo de Útero (Preventivo);Unidade Básica de Saúde
+Norte II;UBS BELA VISTA;Distribuição de Suplemento Sulfato Ferroso;Unidade Básica de Saúde
+Norte II;UBS BELA VISTA;Teste Rápido;Unidade Básica de Saúde
+Norte II;UBS BELA VISTA;Emissão do Cartão SUS;Unidade Básica de Saúde
+Norte II;UBS BELA VISTA;Consulta Ginecologia;Unidade Básica de Saúde
+Norte II;UBS BELA VISTA;Consulta Enfermagem;Unidade Básica de Saúde
+Norte II;UBS BELA VISTA;Pré-Natal;Unidade Básica de Saúde
+Norte II;UBS BELA VISTA;Grupo de Idosos;Unidade Básica de Saúde
+Norte II;UBS BELA VISTA;Grupo de Hipertensos;Unidade Básica de Saúde
+Norte II;UBS BELA VISTA;Grupo de Diabéticos;Unidade Básica de Saúde
+Norte II;USF IGAPO;Imunização;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Curativo;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Nebulização;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Retirada de Pontos;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Injeções;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Teste do Pezinho;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte II;USF IGAPO;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Teste Rápido;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Sorologia de gestantes;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Emissão do Cartão SUS;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte II;USF IGAPO;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Consulta Odontologica;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Pré-Natal;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Grupo de Idosos;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Grupo de Adolescente (Escola);Unidade de Saúde Familiar
+Norte II;USF IGAPO;Grupo de Gestantes;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Grupo de Hipertensos;Unidade de Saúde Familiar
+Norte II;USF IGAPO;Grupo de Diabéticos;Unidade de Saúde Familiar
+Norte II;USF IGAPO;CD Coletivo;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Imunização;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Curativo;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Nebulização;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Retirada de Pontos;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Injeções;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Teste do Pezinho;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte II;USF PANATIS;BCG;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Teste Rápido;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Sorologia de gestantes;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte II;USF PANATIS;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Consulta Odontologica;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Pré-Natal;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Tai chi chuan;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Grupo de Idosos;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Grupo de Adolescente (Escola);Unidade de Saúde Familiar
+Norte II;USF PANATIS;Grupo de Gestantes;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Grupo de Hipertensos;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Grupo de Diabéticos;Unidade de Saúde Familiar
+Norte II;USF PANATIS;CD Coletivo;Unidade de Saúde Familiar
+Norte II;USF PANATIS;Tenda do Conto;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Curativo;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Nebulização;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Injeções;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Teste do Pezinho;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;BCG;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Teste Rápido;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Sorologia de gestantes;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Consulta Odontologica;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Pré-Natal;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Tai chi chuan;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Grupo de Idosos;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Grupo de Adolescente (Escola);Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Grupo de Gestantes;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Grupo de Hipertensos;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Grupo de Dança;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Grupo de Caminhada;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;CD Coletivo;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Terapia comunitária;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Atividade Física;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Grupo de Artesanato;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Terapia Saúde Mental;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Grupo Bebê a Bordo;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;Grupo Raios de Sol;Unidade de Saúde Familiar
+Norte II;USF PARQUE DOS COQUEIROS;DanSaúde;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Imunização;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Curativo;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Nebulização;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Retirada de Pontos;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Injeções;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Teste do Pezinho;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Teste Rápido;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Sorologia de gestantes;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Emissão do Cartão SUS;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Consulta Odontologica;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Pré-Natal;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Grupo de Idosos;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Grupo de Adolescente (Escola);Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Grupo de Gestantes;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Grupo de Hipertensos;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;Grupo de Diabéticos;Unidade de Saúde Familiar
+Norte II;USF PLANICIE DAS MANGUEIRAS;CD Coletivo;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Imunização;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Curativo;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Nebulização;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Retirada de Pontos;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Injeções;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Teste do Pezinho;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte II;USF POTENGI;BCG;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Teste Rápido;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Sorologia de gestantes;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte II;USF POTENGI;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Consulta Odontologica;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Pré-Natal;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Grupo de Idosos;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Grupo de Adolescente (Escola);Unidade de Saúde Familiar
+Norte II;USF POTENGI;Grupo de Gestantes;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Grupo de Hipertensos;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Grupo de Diabéticos;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Grupo de Caminhada;Unidade de Saúde Familiar
+Norte II;USF POTENGI;CD Coletivo;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Atividade Física;Unidade de Saúde Familiar
+Norte II;USF POTENGI;Fisioterapia;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Imunização;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Curativo;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Nebulização;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Retirada de Pontos;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Injeções;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Teste do Pezinho;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;BCG;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Teste Rápido;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Sorologia de gestantes;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Consulta Odontologica;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Pré-Natal;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Tai chi chuan;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Grupo de Idosos;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Grupo de Adolescente (Escola);Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Grupo de Gestantes;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Grupo de Hipertensos;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Grupo de Diabéticos;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;CD Coletivo;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Terapia comunitária;Unidade de Saúde Familiar
+Norte II;USF SANTA CATARINA;Grupo de Artesanato;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Imunização;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Curativo;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Nebulização;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Retirada de Pontos;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Injeções;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Teste do Pezinho;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte II;USF SANTAREM;PPD;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;BCG;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Teste Rápido;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Sorologia de gestantes;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Consulta Odontologica;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Pré-Natal;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Acupuntura;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Fitoterapia;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Tai chi chuan;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Florais;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Vivências lúdicas integrativas;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Grupo de Idosos;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Grupo de Adolescente (Escola);Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Grupo de Gestantes;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Grupo de Hipertensos;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Grupo de Diabéticos;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Grupo de Dança;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;Grupo de Caminhada;Unidade de Saúde Familiar
+Norte II;USF SANTAREM;CD Coletivo;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Imunização;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Nebulização;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Retirada de Pontos;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Injeções;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Teste do Pezinho;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Teste Rápido;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Sorologia de gestantes;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Consulta Odontologica;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Pré-Natal;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Grupo de Crianças;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Grupo de Adolescente (Escola);Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Grupo de Gestantes;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Grupo de Caminhada;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Viva Mais;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Atividade Física;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE I;Tenda do Conto;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Imunização;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Curativo;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Nebulização;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Retirada de Pontos;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Injeções;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Teste do Pezinho;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Teste Rápido;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Sorologia de gestantes;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Consulta Odontologica;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Pré-Natal;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Grupo de Idosos;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Grupo de Adolescente (Escola);Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Grupo de Gestantes;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Grupo de Hipertensos;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Grupo de Diabéticos;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Grupo de Dança;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Grupo de Caminhada;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;CD Coletivo;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Atividade Física;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;Grupo de Artesanato;Unidade de Saúde Familiar
+Norte II;USF SOLEDADE II;RNAlfabetizado;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Imunização;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Curativo;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Nebulização;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Retirada de Pontos;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Injeções;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Teste do Pezinho;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;PPD;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;BCG;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Sorologia de gestantes;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Emissão do Cartão SUS;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Consulta Enfermagem;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Consulta Odontologica;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Pré-Natal;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Grupo de Idosos;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Grupo de Gestantes;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Grupo de Hipertensos;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Grupo de Diabéticos;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;CD Coletivo;Unidade de Saúde Familiar
+Norte II;USF VALE DOURADO;Terapia Saúde Mental;Unidade de Saúde Familiar
+Oeste;USF BAIRRO NORDESTE;Curativo;Unidade de Saúde Familiar
+Oeste;USF BAIRRO NORDESTE;Retirada de Pontos;Unidade de Saúde Familiar
+Oeste;USF BAIRRO NORDESTE;Teste do Pezinho;Unidade de Saúde Familiar
+Oeste;USF BAIRRO NORDESTE;Exame Citopatológico do Colo de Útero (Preventivo);Unidade de Saúde Familiar
+Oeste;USF BAIRRO NORDESTE;Aplicação de Vitamina A;Unidade de Saúde Familiar
+Oeste;USF BAIRRO NORDESTE;Distribuição de Suplemento Sulfato Ferroso;Unidade de Saúde Familiar
+Oeste;USF BAIRRO NORDESTE;Teste Rápido;Unidade de Saúde Familiar
+Oeste;USF BAIRRO NORDESTE;Sorologia de gestantes;Unidade de Saúde Familiar
+Oeste;USF BAIRRO NORDESTE;Emissão do Cartão SUS;Unidade de Saúde Familiar
+Oeste;USF BAIRRO NORDESTE;Consulta médico Generalista (ESF);Unidade de Saúde Familiar
+Oeste;USF BAIRRO NORDESTE;Consulta Enfermagem;Unidade de Saúde Familiar
+Oeste;USF BAIRRO NORDESTE;Consulta Odontologica;Unidade de Saúde Familiar
+Oeste;USF BAIRRO NORDESTE;Consulta de Psicologia;Unidade de Saúde Familiar
+Oeste;USF BAIRRO NORDESTE;Teste do Pé Diabético;Unidade de Saúde Familiar
+Oeste;USF BOM PASTOR;Curativo;
+Oeste;USF BOM PASTOR;Nebulização;
+Oeste;USF BOM PASTOR;Retirada de Pontos;
+Oeste;USF BOM PASTOR;Teste do Pezinho;
+Oeste;USF BOM PASTOR;Exame Citopatológico do Colo de Útero (Preventivo);
+Oeste;USF BOM PASTOR;BCG;
+Oeste;USF BOM PASTOR;Aplicação de Vitamina A;
+Oeste;USF BOM PASTOR;Distribuição de Suplemento Sulfato Ferroso;
+Oeste;USF BOM PASTOR;Teste Rápido;
+Oeste;USF BOM PASTOR;Sorologia de gestantes;
+Oeste;USF BOM PASTOR;Emissão do Cartão SUS;
+Oeste;USF BOM PASTOR;Consulta médico Generalista (ESF);
+Oeste;USF BOM PASTOR;Consulta Clinico Geral;
+Oeste;USF BOM PASTOR;Consulta Pediatria;
+Oeste;USF BOM PASTOR;Consulta Ginecologia;
+Oeste;USF BOM PASTOR;Consulta Enfermagem;
+Oeste;USF BOM PASTOR;Consulta Odontologica;
+Oeste;USF BOM PASTOR;Consulta de Psicologia;
+Oeste;USF BOM PASTOR;Meditação terapêutica;
+Oeste;USF BOM PASTOR;Yoga, Liang gong;
+Oeste;USF CIDADE NOVA;Curativo;
+Oeste;USF CIDADE NOVA;Retirada de Pontos;
+Oeste;USF CIDADE NOVA;Teste do Pezinho;
+Oeste;USF CIDADE NOVA;Exame Citopatológico do Colo de Útero (Preventivo);
+Oeste;USF CIDADE NOVA;BCG;
+Oeste;USF CIDADE NOVA;Aplicação de Vitamina A;
+Oeste;USF CIDADE NOVA;Distribuição de Suplemento Sulfato Ferroso;
+Oeste;USF CIDADE NOVA;Teste Rápido;
+Oeste;USF CIDADE NOVA;Sorologia de gestantes;
+Oeste;USF CIDADE NOVA;Emissão do Cartão SUS;
+Oeste;USF CIDADE NOVA;Consulta médico Generalista (ESF);
+Oeste;USF CIDADE NOVA;Consulta Enfermagem;
+Oeste;USF CIDADE NOVA;Consulta Odontologica;
+Oeste;USF CIDADE NOVA;Consulta Nutrição;
+Oeste;USF CIDADE NOVA;Atividade Física;
+Oeste;USF CIDADE NOVA;Urgência na Atenção Básica;
+Oeste;USF FELIPE CAMARAO II;Curativo;
+Oeste;USF FELIPE CAMARAO II;Retirada de Pontos;
+Oeste;USF FELIPE CAMARAO II;Teste do Pezinho;
+Oeste;USF FELIPE CAMARAO II;Exame Citopatológico do Colo de Útero (Preventivo);
+Oeste;USF FELIPE CAMARAO II;BCG;
+Oeste;USF FELIPE CAMARAO II;Aplicação de Vitamina A;
+Oeste;USF FELIPE CAMARAO II;Distribuição de Suplemento Sulfato Ferroso;
+Oeste;USF FELIPE CAMARAO II;Teste Rápido;
+Oeste;USF FELIPE CAMARAO II;Emissão do Cartão SUS;
+Oeste;USF FELIPE CAMARAO II;Consulta médico Generalista (ESF);
+Oeste;USF FELIPE CAMARAO II;Consulta Clinico Geral;
+Oeste;USF FELIPE CAMARAO II;Consulta Enfermagem;
+Oeste;USF FELIPE CAMARAO II;Consulta Odontologica;
+Oeste;USF FELIPE CAMARAO III;Curativo;
+Oeste;USF FELIPE CAMARAO III;Retirada de Pontos;
+Oeste;USF FELIPE CAMARAO III;Teste do Pezinho;
+Oeste;USF FELIPE CAMARAO III;Exame Citopatológico do Colo de Útero (Preventivo);
+Oeste;USF FELIPE CAMARAO III;BCG;
+Oeste;USF FELIPE CAMARAO III;Aplicação de Vitamina A;
+Oeste;USF FELIPE CAMARAO III;Teste Rápido;
+Oeste;USF FELIPE CAMARAO III;Emissão do Cartão SUS;
+Oeste;USF FELIPE CAMARAO III;Consulta médico Generalista (ESF);
+Oeste;USF FELIPE CAMARAO III;Consulta Pediatria;
+Oeste;USF FELIPE CAMARAO III;Consulta Enfermagem;
+Oeste;USF FELIPE CAMARAO III;Consulta Odontologica;
+Oeste;USF GUARAPES;Curativo;
+Oeste;USF GUARAPES;Retirada de Pontos;
+Oeste;USF GUARAPES;Teste do Pezinho;
+Oeste;USF GUARAPES;Exame Citopatológico do Colo de Útero (Preventivo);
+Oeste;USF GUARAPES;Aplicação de Vitamina A;
+Oeste;USF GUARAPES;Teste Rápido;
+Oeste;USF GUARAPES;Emissão do Cartão SUS;
+Oeste;USF GUARAPES;Consulta médico Generalista (ESF);
+Oeste;USF GUARAPES;Consulta Enfermagem;
+Oeste;USF KM 6;Curativo;
+Oeste;USF KM 7;Retirada de Pontos;
+Oeste;USF KM 8;Teste do Pezinho;
+Oeste;USF KM 9;Exame Citopatológico do Colo de Útero (Preventivo);
+Oeste;USF KM 10;Aplicação de Vitamina A;
+Oeste;USF KM 11;Distribuição de Suplemento Sulfato Ferroso;
+Oeste;USF KM 12;Teste Rápido;
+Oeste;USF KM 13;Sorologia de gestantes;
+Oeste;USF KM 14;Consulta médico Generalista (ESF);
+Oeste;USF KM 15;Consulta Enfermagem;
+Oeste;USF KM 16;Consulta Odontologica;
+Oeste;USF KM 17;Meditação terapêutica;
+Oeste;USF MONTE LIBANO;Curativo;
+Oeste;USF MONTE LIBANO;Nebulização;
+Oeste;USF MONTE LIBANO;Retirada de Pontos;
+Oeste;USF MONTE LIBANO;Teste do Pezinho;
+Oeste;USF MONTE LIBANO;Exame Citopatológico do Colo de Útero (Preventivo);
+Oeste;USF MONTE LIBANO;Distribuição de Suplemento Sulfato Ferroso;
+Oeste;USF MONTE LIBANO;Teste Rápido;
+Oeste;USF MONTE LIBANO;Sorologia de gestantes;
+Oeste;USF MONTE LIBANO;Emissão do Cartão SUS;
+Oeste;USF MONTE LIBANO;Consulta médico Generalista (ESF);
+Oeste;USF MONTE LIBANO;Consulta Enfermagem;
+Oeste;USF MONTE LIBANO;Consulta Odontologica;
+Oeste;USF MONTE LIBANO;Urgência na Atenção Básica;
+Oeste;USF NAZARÉ;Curativo;
+Oeste;USF NAZARÉ;Retirada de Pontos;
+Oeste;USF NAZARÉ;Teste do Pezinho;
+Oeste;USF NAZARÉ;Exame Citopatológico do Colo de Útero (Preventivo);
+Oeste;USF NAZARÉ;PPD;
+Oeste;USF NAZARÉ;BCG;
+Oeste;USF NAZARÉ;Aplicação de Vitamina A;
+Oeste;USF NAZARÉ;Distribuição de Suplemento Sulfato Ferroso;
+Oeste;USF NAZARÉ;Teste Rápido;
+Oeste;USF NAZARÉ;Sorologia de gestantes;
+Oeste;USF NAZARÉ;Consulta médico Generalista (ESF);
+Oeste;USF NAZARÉ;Consulta Enfermagem;
+Oeste;USF NAZARÉ;Consulta Odontologica;
+Oeste;USF NAZARÉ;Consulta Nutrição;
+Oeste;USF NOVA CIDADE;Curativo;
+Oeste;USF NOVA CIDADE;Teste do Pezinho;
+Oeste;USF NOVA CIDADE;Exame Citopatológico do Colo de Útero (Preventivo);
+Oeste;USF NOVA CIDADE;BCG;
+Oeste;USF NOVA CIDADE;Aplicação de Vitamina A;
+Oeste;USF NOVA CIDADE;Distribuição de Suplemento Sulfato Ferroso;
+Oeste;USF NOVA CIDADE;Sorologia de gestantes;
+Oeste;USF NOVA CIDADE;Consulta médico Generalista (ESF);
+Oeste;USF NOVA CIDADE;Consulta Enfermagem;
+Oeste;USF NOVA CIDADE;Consulta Odontologica;
+Oeste;USF NOVA CIDADE;Consulta de Psicologia;
+Oeste;USF NOVA CIDADE;Colposcopia;
+Oeste;USF NOVA CIDADE;Terapia REIKI;
+Oeste;USF NOVO HORIZONTE;Exame Citopatológico do Colo de Útero (Preventivo);
+Oeste;USF NOVO HORIZONTE;Emissão do Cartão SUS;
+Oeste;USF NOVO HORIZONTE;Consulta médico Generalista (ESF);
+Oeste;USF NOVO HORIZONTE;Consulta Clinico Geral;
+Oeste;USF NOVO HORIZONTE;Consulta Pediatria;
+Oeste;USF NOVO HORIZONTE;Consulta Ginecologia;
+Oeste;USF NOVO HORIZONTE;Consulta Enfermagem;
+Oeste;USF NOVO HORIZONTE;Consulta Nutrição;
+Oeste;USF QUINTAS II;Curativo;
+Oeste;USF QUINTAS II;Nebulização;
+Oeste;USF QUINTAS II;BCG;
+Oeste;USF QUINTAS II;Colposcopia;
+Oeste;USF QUINTAS II;Acupuntura;
+Oeste;USF QUINTAS II;Bioeletrografia;
+Oeste;USF QUINTAS II;Cromoterapia;
+Oeste;USF QUINTAS II;Fluxoterapia;
+Oeste;USF QUINTAS II;Meditação terapêutica;
+Oeste;USF QUINTAS II;Shietssuterapia;
+Oeste;USF QUINTAS II;Teste do Pé Diabético;
+Sul;UBS CANDELARIA;Imunização;
+Sul;UBS CANDELARIA;Curativo;
+Sul;UBS CANDELARIA;Retirada de Pontos;
+Sul;UBS CANDELARIA;Teste do Pezinho;
+Sul;UBS CANDELARIA;Emissão do Cartão SUS;
+Sul;UBS CANDELARIA;Consulta Clinico Geral;
+Sul;UBS CANDELARIA;Consulta Pediatria;
+Sul;UBS CANDELARIA;Consulta Ginecologia;
+Sul;UBS CANDELARIA;Consulta Odontologica;
+Sul;UBS CANDELARIA;Consulta Nutrição;
+Sul;UBS CANDELARIA;Consulta de Psicologia;
+Sul;UBS CANDELARIA;Consulta Assistente Social;
+Sul;UBS CANDELARIA;Pré-Natal;
+Sul;UBS CANDELARIA;CD Coletivo;
+Sul;UBS CANDELARIA;Regulação;
+Sul;UBS CANDELARIA;Esterelização;
+Sul;UBS CIDADE SATELITE;Imunização;
+Sul;UBS CIDADE SATELITE;Curativo;
+Sul;UBS CIDADE SATELITE;Nebulização;
+Sul;UBS CIDADE SATELITE;Retirada de Pontos;
+Sul;UBS CIDADE SATELITE;Exame Citopatológico do Colo de Útero (Preventivo);
+Sul;UBS CIDADE SATELITE;BCG;
+Sul;UBS CIDADE SATELITE;Emissão do Cartão SUS;
+Sul;UBS CIDADE SATELITE;Consulta Clinico Geral;
+Sul;UBS CIDADE SATELITE;Consulta Pediatria;
+Sul;UBS CIDADE SATELITE;Consulta Ginecologia;
+Sul;UBS CIDADE SATELITE;Consulta Odontologica;
+Sul;UBS CIDADE SATELITE;Consulta Nutrição;
+Sul;UBS CIDADE SATELITE;Consulta de Psicologia;
+Sul;UBS CIDADE SATELITE;Consulta Assistente Social;
+Sul;UBS CIDADE SATELITE;Pré-Natal;
+Sul;UBS CIDADE SATELITE;CD Coletivo;
+Sul;UBS CIDADE SATELITE;Regulação;
+Sul;UBS JIQUI;Imunização;
+Sul;UBS JIQUI;Exame Citopatológico do Colo de Útero (Preventivo);
+Sul;UBS JIQUI;Emissão do Cartão SUS;
+Sul;UBS JIQUI;Consulta Clinico Geral;
+Sul;UBS JIQUI;Consulta Pediatria;
+Sul;UBS JIQUI;Consulta Odontologica;
+Sul;UBS JIQUI;Consulta Nutrição;
+Sul;UBS JIQUI;Consulta Assistente Social;
+Sul;UBS JIQUI;CD Coletivo;
+Sul;UBS JIQUI;Regulação;
+Sul;UBS MIRASSOL;Imunização;
+Sul;UBS MIRASSOL;Curativo;
+Sul;UBS MIRASSOL;Retirada de Pontos;
+Sul;UBS MIRASSOL;Exame Citopatológico do Colo de Útero (Preventivo);
+Sul;UBS MIRASSOL;Emissão do Cartão SUS;
+Sul;UBS MIRASSOL;Consulta Clinico Geral;
+Sul;UBS MIRASSOL;Consulta Pediatria;
+Sul;UBS MIRASSOL;Consulta Ginecologia;
+Sul;UBS MIRASSOL;Consulta Odontologica;
+Sul;UBS MIRASSOL;Consulta Nutrição;
+Sul;UBS MIRASSOL;Consulta de Psicologia;
+Sul;UBS MIRASSOL;Consulta Assistente Social;
+Sul;UBS MIRASSOL;Pré-Natal;
+Sul;UBS MIRASSOL;CD Coletivo;
+Sul;UBS MIRASSOL;Regulação;
+Sul;UBS NOVA DESCOBERTA;Imunização;
+Sul;UBS NOVA DESCOBERTA;Curativo;
+Sul;UBS NOVA DESCOBERTA;Nebulização;
+Sul;UBS NOVA DESCOBERTA;Retirada de Pontos;
+Sul;UBS NOVA DESCOBERTA;Exame Citopatológico do Colo de Útero (Preventivo);
+Sul;UBS NOVA DESCOBERTA;Emissão do Cartão SUS;
+Sul;UBS NOVA DESCOBERTA;Consulta Clinico Geral;
+Sul;UBS NOVA DESCOBERTA;Consulta Pediatria;
+Sul;UBS NOVA DESCOBERTA;Consulta Ginecologia;
+Sul;UBS NOVA DESCOBERTA;Consulta Odontologica;
+Sul;UBS NOVA DESCOBERTA;Consulta Nutrição;
+Sul;UBS NOVA DESCOBERTA;Consulta de Psicologia;
+Sul;UBS NOVA DESCOBERTA;Consulta Assistente Social;
+Sul;UBS NOVA DESCOBERTA;Pré-Natal;
+Sul;UBS NOVA DESCOBERTA;CD Coletivo;
+Sul;UBS NOVA DESCOBERTA;Regulação;
+Sul;UBS NOVA DESCOBERTA;Esterelização;
+Sul;UBS NOVA DESCOBERTA;Laboratório;
+Sul;UBS PIRANGI;Imunização;
+Sul;UBS PIRANGI;Curativo;
+Sul;UBS PIRANGI;Nebulização;
+Sul;UBS PIRANGI;Retirada de Pontos;
+Sul;UBS PIRANGI;Exame Citopatológico do Colo de Útero (Preventivo);
+Sul;UBS PIRANGI;Emissão do Cartão SUS;
+Sul;UBS PIRANGI;Consulta Clinico Geral;
+Sul;UBS PIRANGI;Consulta Pediatria;
+Sul;UBS PIRANGI;Consulta Ginecologia;
+Sul;UBS PIRANGI;Consulta Nutrição;
+Sul;UBS PIRANGI;Consulta de Psicologia;
+Sul;UBS PIRANGI;Pré-Natal;
+Sul;UBS PIRANGI;CD Coletivo;
+Sul;UBS PIRANGI;Regulação;
+Sul;UBS PIRANGI;Esterelização;
+Sul;UBS PONTA NEGRA;Imunização;
+Sul;UBS PONTA NEGRA;Curativo;
+Sul;UBS PONTA NEGRA;Nebulização;
+Sul;UBS PONTA NEGRA;Retirada de Pontos;
+Sul;UBS PONTA NEGRA;Exame Citopatológico do Colo de Útero (Preventivo);
+Sul;UBS PONTA NEGRA;Emissão do Cartão SUS;
+Sul;UBS PONTA NEGRA;Consulta Clinico Geral;
+Sul;UBS PONTA NEGRA;Consulta Pediatria;
+Sul;UBS PONTA NEGRA;Consulta Ginecologia;
+Sul;UBS PONTA NEGRA;Consulta Odontologica;
+Sul;UBS PONTA NEGRA;Consulta Nutrição;
+Sul;UBS PONTA NEGRA;Consulta de Psicologia;
+Sul;UBS PONTA NEGRA;Consulta Assistente Social;
+Sul;UBS PONTA NEGRA;Pré-Natal;
+Sul;UBS PONTA NEGRA;CD Coletivo;
+Sul;UBS PONTA NEGRA;Regulação;
+Sul;UBS PONTA NEGRA;Esterelização;
+Sul;UBS PONTA NEGRA;Laboratório;
+Sul;USF PLANALTO;Imunização;
+Sul;USF PLANALTO;Curativo;
+Sul;USF PLANALTO;Nebulização;
+Sul;USF PLANALTO;Retirada de Pontos;
+Sul;USF PLANALTO;Exame Citopatológico do Colo de Útero (Preventivo);
+Sul;USF PLANALTO;BCG;
+Sul;USF PLANALTO;Emissão do Cartão SUS;
+Sul;USF PLANALTO;Consulta médico Generalista (ESF);
+Sul;USF PLANALTO;Consulta Clinico Geral;
+Sul;USF PLANALTO;Consulta Odontologica;
+Sul;USF PLANALTO;Consulta Nutrição;
+Sul;USF PLANALTO;Pré-Natal;
+Sul;USF PLANALTO;CD Coletivo;
+Sul;USF PLANALTO;Regulação;
